@@ -7,8 +7,17 @@
 3. [VSCodeIDE](https://code.visualstudio.com/)
 4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
-Create a new environment
-
+## Dependencies
 ```
-conda create -p venv python==3.7 -y
+ 1)import cv2
+ 2)import streamlit
+ 3)import tensorflow
+ 4)import numpy
+ 5)import pygame
+
+##Execution
+to Run the Code , 
+```
+streamlit run streamlit run .\driverdrowziness.py
+
 ```
