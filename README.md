@@ -9,15 +9,18 @@
 
 ## Dependencies
 ```
- 1)import cv2
- 2)import streamlit
- 3)import tensorflow
- 4)import numpy
- 5)import pygame
+1) numpy==1.23.2
+2) pandas==1.4.3
+2) Pillow==9.2.0
+4) requests==2.28.1
+5) scikit_learn==1.1.3
+6) streamlit==1.12.0
+7) torch==1.12.1
+8) torchvision==0.13.1
 ```
 ##Execution
 to Run the Code , 
 ```
-streamlit run streamlit run .\driverdrowziness.py
+streamlit run streamlit run .\HOME.py
 
 ```
